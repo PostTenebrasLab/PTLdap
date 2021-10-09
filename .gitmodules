@@ -1,0 +1,3 @@
+[submodule "examples/libs/brynet"]
+	path = examples/libs/brynet
+	url = https://github.com/IronsDu/brynet.git
